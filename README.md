@@ -4,7 +4,7 @@
 
 # Overview 📝
 
-This project analyzes air quality across Portugal throughout 2023 and 2024, focusing on pollutants like AQI, PM2.5, PM10, CO2, and weather-related factors such as temperature, humidity, and pollen levels. 
+This project analyzes air quality across Portugal throughout 2023 and 2024, focusing on pollutants like AQI, PM2.5, PM10, CO2, and weather-related factors such as temperature, humidity, and pollen levels. <br/>
 The analysis provides insights into air quality trends, seasonal patterns, and the relationship between weather variables and air quality. The project is visualized through an interactive Power BI dashboard to help understand the effects of air pollution at different levels of granularity (district, municipality, parish).
 
 # Methodology 🔬
