@@ -99,4 +99,4 @@ The results of this analysis are visualized through an interactive **Power BI da
 Feel free to open an issue or submit a pull request if you'd like to contribute to the project! 🌟
 
 ## **License** 📄
-- This project is licensed under the MIT License - see the [LICENSE file](https://github.com/BeatrizAVeiga/Air_Quality_Analysis_Project/blob/main/LICENSE) for details. ⚖️
+This project is licensed under the MIT License - see the [LICENSE file](https://github.com/BeatrizAVeiga/Air_Quality_Analysis_Project/blob/main/LICENSE) for details. ⚖️
